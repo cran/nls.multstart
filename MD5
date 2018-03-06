@@ -1,0 +1,14 @@
+df5da04c83c374b84eda4823b4e72124 *DESCRIPTION
+dfeb1e57956b7f59d4a55f7545de7757 *NAMESPACE
+7bebaf3fc1f223fd5cb4d45f863c5d92 *NEWS.md
+4ed951eb906f8fd865db321ee21af4d5 *R/data.R
+8c7c2cff2c302fbf9c52bb8e52e04b9e *R/nls_multstart.R
+c041f46c19dbd641db0310680fae743b *README.md
+45290fa2ca676c337efc4000c3a7f781 *data/Chlorella_TRC.rda
+fc6d8339c1030f563198e7344c3a62f6 *inst/image/README-confint_plot-1.png
+98fca1f1c988724133d5fb22db5614b8 *inst/image/README-plot_many_fits-1.png
+bf467a098dc8975161628f9b04f7c6e5 *inst/image/README-plot_one_fit-1.png
+11a04cec72071bf5e9d4cb94f709c7dc *man/Chlorella_TRC.Rd
+08ace244bbdf2a51128ebbc17270857b *man/nls_multstart.Rd
+52b76a7f3e4512e14426e10141e2f823 *tests/testthat.R
+30dbf66efc0d5620431a30f9fc27eb4f *tests/testthat/test-nls_multstart.R

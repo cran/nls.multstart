@@ -1,7 +1,7 @@
 Package: nls.multstart
 Type: Package
 Title: Robust Non-Linear Regression using AIC Scores
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person("Daniel", "Padfield", email = "d.padfield@exeter.ac.uk", role = c("aut", "cre")),
     person("Granville", "Matheson", email = "mathesong@gmail.com", role = "aut"))
@@ -15,8 +15,8 @@ Depends: R (>= 3.2.1)
 Imports: minpack.lm, purrr, dplyr, tidyr, tibble
 Suggests: ggplot2, broom, nlstools, testthat
 NeedsCompilation: no
-Packaged: 2018-03-06 12:11:29 UTC; danpadfield
+Packaged: 2020-06-02 10:04:32 UTC; danpadfield
 Author: Daniel Padfield [aut, cre],
   Granville Matheson [aut]
 Repository: CRAN
-Date/Publication: 2018-03-06 19:14:58 UTC
+Date/Publication: 2020-06-03 17:50:02 UTC
